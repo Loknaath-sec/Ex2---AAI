@@ -1,5 +1,4 @@
-
-# Implementation of Exact Inference Method of Bayesian Network
+# Exp-02 : Implementation of Exact Inference Method of Bayesian Network
 
 ### Name: Loknaath P
 ### Register No: 212223240080
